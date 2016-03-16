@@ -211,6 +211,8 @@ header .header-content {
 .logo {
 
 margin-bottom: 50px;
+width: 100%;
+height: auto;
 
 }
 
