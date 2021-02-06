@@ -1,16 +1,15 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
-
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+# Useing a free template that i found in [Creative](http://startbootstrap.com/template-overviews/creative/) i sold this website to a client in 2016. It was not my best skills in that moment, i was learning about desing so i prefered to use a ready bootstrap theme.
 
 ## Getting Started
 
-To use this theme, choose one of the following options to get started:
+You can youse this theme. Just choose one of the following options to get started:
 * Download the latest release on Start Bootstrap
 * Fork this repository on GitHub
 
 ## Bugs and Issues
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
+I didnt create the original theme, but i used and created my version of it.
+Have a bug or an issue with this theme? let me know.
 
 ## Creator
 
